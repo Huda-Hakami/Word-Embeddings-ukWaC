@@ -4,7 +4,7 @@ Pre-trained word embeddings using ukWaC corpus.
 This repository includes links to download pre-trained word embeddings of different models using ukWaC corpus. 
 These embeddings have been used in the following research papaers:
 
-   - jka
+   -[Compositional Approaches for Representing Relations Between Words: A Comparative Study](https://www.sciencedirect.com/science/article/abs/pii/S095070511730388X)
    -ajdk
 
 # Pre-trained Word Embeddings
