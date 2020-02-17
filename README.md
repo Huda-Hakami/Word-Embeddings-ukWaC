@@ -4,5 +4,6 @@ Pre-trained word embeddings using ukWaC corpus.
 This repository includes links to pre-trained word embeddings of different models using ukWaC corpus. These embeddings have been used in the following research papaers: 
 
 # Global Vectors (GloVe)
-[link](https://cgi.csc.liv.ac.uk/~huda/word_embeddings_ukWaC/GloVe/glove_300.zip).
+<a href="data:application/octet-stream,DATA" download="FILENAME">TITLE</a>
+
 
