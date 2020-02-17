@@ -3,6 +3,7 @@ Pre-trained word embeddings using ukWaC corpus.
 
 This repository includes links to download pre-trained word embeddings of different models using ukWaC corpus. 
 These embeddings have been used in the following research papaers: 
+   - 
 
 # Global Vectors (GloVe)
    - Continous Bag of Words (CBOW) 300 dimensions, [download](https://cgi.csc.liv.ac.uk/~huda/word_embeddings_ukWaC/cbow/cbow_300.zip)
