@@ -5,7 +5,7 @@ This repository includes links to download pre-trained word embeddings of differ
 These embeddings have been used in the following research papaers: 
 
 # Global Vectors (GloVe)
-   [Download](https://cgi.csc.liv.ac.uk/~huda/word_embeddings_ukWaC/GloVe/transe_nips13_poster.pdf)
+   [Download](https://cgi.csc.liv.ac.uk/~huda/word_embeddings_ukWaC/downloads/glove_50d.zip)
     
 
 
