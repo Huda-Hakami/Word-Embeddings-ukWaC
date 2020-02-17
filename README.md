@@ -5,7 +5,7 @@ This repository includes links to download pre-trained word embeddings of differ
 These embeddings have been used in the following research papaers: 
 
 # Global Vectors (GloVe)
-   - Global Vector GloVe 300 dimensions[Download](https://cgi.csc.liv.ac.uk/~huda/papers/glove_50.zip)
+   - Global Vectors (GloVe) 300 dimensions, [Download](https://cgi.csc.liv.ac.uk/~huda/word_embeddings_ukWaC/GloVe/glove_300.zip)
    - 
     
 
