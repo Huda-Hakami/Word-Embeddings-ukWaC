@@ -8,7 +8,7 @@ These embeddings have been used in the following research papaers:
    - [Why does PairDiff work? – A Mathematical Analysis of Bilinear Relational Compositional Operators for Analogy Detection](https://cgi.csc.liv.ac.uk/~huda/papers/Published_version_WhyPairDiffWorks.pdf)
    - [Learning Relation Representations from Word Representations](https://openreview.net/forum?id=r1e3WW5aTX)
 
-# Doanload Pre-trained Word Embeddings
+# Pre-trained Word Embeddings
    - Continous Bag of Words (CBOW) 300 dimensions, [download](https://cgi.csc.liv.ac.uk/~huda/word_embeddings_ukWaC/cbow/cbow_300.zip)
    - Skip-Gram (SG) 300 dimensions, [download](https://cgi.csc.liv.ac.uk/~huda/word_embeddings_ukWaC/skip_gram/sg_300.zip)
    - Global Vectors (GloVe) 300 dimensions, [Download](https://cgi.csc.liv.ac.uk/~huda/word_embeddings_ukWaC/GloVe/glove_300.zip)
